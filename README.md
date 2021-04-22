@@ -1,5 +1,3 @@
-### 🚀 Sup!
-
 - ☕ Java developer
 - 🤖 Flutter/Dart lover
 
